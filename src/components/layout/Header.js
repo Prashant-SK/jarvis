@@ -1,5 +1,5 @@
 import React from "react";
-import { FaPizzaSlice } from "react-icons/fa";
+import { FaLightbulb } from "react-icons/fa";
 
 export const Header = () => {
   const x = 1;
@@ -13,7 +13,7 @@ export const Header = () => {
           <ul>
             <li>+</li>
             <li>
-              <FaPizzaSlice />
+              <FaLightbulb />
             </li>
           </ul>
         </div>
